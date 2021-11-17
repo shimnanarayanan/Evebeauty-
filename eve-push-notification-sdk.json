@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "evebeauty-d74e2",
+  "private_key_id": "9683995917b2ec73328451127e900c836f217b8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKWXEfCINi0zHL\nKKMNxU0iILg4FeOj2P1qiYxqbzH5wotp4a1wVA3yiodBl513IyU5a9fodPC4xEPD\nbnawG610OFiioIgPu7svvZl1F1Zrs4QeKBae9sQeoJPhdVXZjJWzpy26zcjCgrrL\nQt0GcAkFwnnsW8i2IHgmEkzBSE3Kz2IllJMOrmWF4IW9TdFPYboeES02R+ORu0AI\nLt1sZr99TAtEBujKWvEYIbAYvF5QVPQNDSUkGzKeukAxPIc6dsTaZebNTbDRMRYe\nqynDTvkylO4pARarcCuJ0B/xna0R8GF8K79Rj0AXvn/bhO9S6KZsRDaRzv4mva55\nydnrYpd1AgMBAAECggEAK50ClkNB+lN16IluN4IeoWv2+NOy+HZFDKjv9GLaHTCS\n1vP2636acPvtsjQJEwwmsk0twKMv3UskJePRvhyBEsswQ4EhQm7epigSAtxQWq9b\nGxrd4U5jsAxBQ3eEVPsJqyqt3xUKn+4Ib9YOCJyuPSkRGWIhDSxLaT1JgOFiLwOI\nrvUo/MAPmN85xHakIgfATKvo2uj6cRX4Hfsh/jtzHdyHpaEdt3flqIu97kzqFOt7\n6QAR816yv71+bSO0iQNw8HrtfKLstZbA/tz/QlD0hKoEDzprzpYwBJg3ITE5vsuU\nqtPfS90RNHOTX+x8OkAZ0o4GN2QJiYzFSZEnVDO1AQKBgQDv4aWixLWbtQrj4yTG\npRu3ACuUutdRuh0+aufHRcrBRkaPL01vyrUNhcEW6i4gAE8cBPA3XE2JBL6d4tsC\nd2Djt0nPPFku7RHJFu0Fd6czgYjobAffVWJlZnZPCvFzGkq4fz6NQPhaQ+JzXTRT\nQuB1pF7Nxnf8NK+i8h4Q9dBr9QKBgQDX8i6kklZMS5rIlAHB/N9Pj+NpSuGpVn/t\nVdlzTDdUhXJ3/cRCPyr+LYFPrqdRridf/hv8wFodlRXUAbw9jUTWb9Gdek/MCHgY\nIFheUgyKXzzsiIsUnKKJa4pkLmzjBUwM5OKlRSGYAYi9RtVE4rDTesHdX6ft4ap1\n8Y6lCqXNgQKBgDnW1JNMjuV+X6PXDvT+tpIHbnqsGmLQV2DHch9wSpUTlsvLggZk\ngAdEquwVhw2cRXbiEfGnReK1zChRnLEZi7kcZqWbTX2tF86+wmPBGAWpRBOWiMdm\n1RTSAdDJOLKiMkYOGE0Cz18kYyOh44334Bs9iMZhBmk/YuINMwav3pNJAoGBAK9S\nWLwUcywOVeRzBdpRS5x03dUmjn/FUqeGA72wK1vb3Eu/JBAE6QrkNxBSZFXUZvNw\ng5h5MrDB0a8GmaX/g9v1fOG15ANq/NXZrOUnCDdviy8ezIw3f17CiOE9L/pA2rW9\nPqWfst6OoE3LrGr5AUcxayQn/VcM2DBZpc4pDuQBAoGBAMjmZiwIp6q+8At7AItX\nBfFRvFlQBi+Gj3KbCYRmtVSLaM5hP8W0Rb1x/WcPeS3J0oarhWD4RcPwaT8ayfbM\nYqJotTpudmLlJ5PSOcgn8gdFQrswqP/h0YF1LsGAwPiJcbdRPW3mI6FdOsIxX9Fh\nGOCYZzbbwP80zClHIOUWg4yJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-uxfs3@evebeauty-d74e2.iam.gserviceaccount.com",
+  "client_id": "105369658131420507837",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uxfs3%40evebeauty-d74e2.iam.gserviceaccount.com"
+}

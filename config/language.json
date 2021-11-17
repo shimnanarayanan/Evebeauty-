@@ -1,0 +1,36 @@
+{
+  "confirmationTitle": {
+    "en": "New Booking Confirmation",
+    "ar": "New Booking Confirmation"
+  },
+  "confirmationBody": {
+    "en": "Hi {Name}, We have received your booking request in {SalonName} on {Time}",
+    "ar": "Hi {Name}, We have received your booking request in {SalonName} on {Time}"
+  },
+
+  "bookingCancelTitle": {
+    "en": "Booking Cancellation",
+    "ar": "Booking Cancellation"
+  },
+  "bookingCancelBody": {
+    "en": "Hi {Name}, We are sorry your booking request on {Time} in {SalonName} has been Cancelled",
+    "ar": "Hi {Name}, We are sorry your booking request on {Time} in {SalonName} has been Cancelled"
+  },
+
+  "bookingReminderTitle": {
+    "en": "Booking Reminder",
+    "ar": "Booking Reminder"
+  },
+  "bookingReminderBody": {
+    "en": "Hi {Name}, Your appointment is on {Time} at {salonName}.See you soon!",
+    "ar": "Hi {Name}, Your appointment is on {Time} at {salonName}.See you soon!"
+  },
+  "referalTitle": {
+    "en": "Referal Reward",
+    "ar": "Referal Reward"
+  },
+  "referalBody": {
+    "en": "Hi {Name},You have earned Referal Reward of {Amount}",
+    "ar": "Hi {Name},You have earned Referal Reward of {Amount}"
+  }
+}

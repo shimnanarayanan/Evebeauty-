@@ -1,0 +1,51 @@
+{
+    "user": {
+      "username": "required",
+      "password":"required",
+      "type":"required"
+     
+    },
+    "signin": {
+        "username": "required",
+        "password": "required",
+        "type": "required"
+      
+      },
+      "saloon":{
+        "user.name":"required",
+        "user.email":"required",
+        "user.phone":"required",
+        "user.username": "required",
+        "user.password": "required",
+        "user.type": "required"
+       
+      },
+      "mystery":{
+        "name.english":"required"
+      },
+      "offer":{
+        "name.english":"required",
+        "discount_amount":"required|max:100"
+     },
+      "booking": {
+        "user": "required",
+        "saloon": "required",
+        "date": "required"
+       
+      },
+      "customer": {
+        "signin": {
+         
+          "type": "required"
+        }
+      },
+      "notification":{
+        "name.english":"required"
+      },
+      "saloon_update": {
+        "name.english": "required",
+        "user": "required",
+        "workingHours":"required"
+      }
+  }
+  
